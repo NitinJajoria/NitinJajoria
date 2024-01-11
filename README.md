@@ -2,14 +2,14 @@
 
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nitin+Kumar!;" /> </h1>
 
-<h3 align="left">A passionate Mern Stack developer from India</h3>
+<h3 align="center">A passionate Mern Stack developer from India</h3>
 
-<p align="left">🔭 I’m working as Admin Dashboard<br>📚 I'm currently learning nginx<br>💬 Ask me about Node.js, React.js or anything<br>⚡ In my free time I read blogs</p>
+<p align="center">🔭 I’m working as Admin Dashboard<br>📚 I'm currently learning nginx<br>💬 Ask me about Node.js, React.js or anything<br>⚡ In my free time I read blogs</p>
 
 ###
 
-<div align="left">
-	<h3 align="left">Connect with me:</h3>
+<div align="center">
+	<h3 align="center">Connect with me:</h3>
 	<a href="mailto:nitinjajoria97@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
 	</a>
@@ -23,9 +23,9 @@
 
 <hr />
 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br />
-<div align="left">
+<div align="center">
 	<img
 		src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,react,redux"
 	/>
@@ -37,7 +37,7 @@
 <br />
 <hr />
 
-<div align="left">
+<div align="center">
 	<h2>🐍 My Contributions 🐍</h2>
 	<img
 		src="https://raw.githubusercontent.com/NitinJajoria/NitinJajoria/output/snake.svg"
@@ -48,9 +48,9 @@
 
 <hr />
 
-<h2 align="left">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br />
-<div align="left">
+<div align="center">
 	<img
 		src="https://github-readme-stats.vercel.app/api?username=NitinJajoria&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
 		height="150"
