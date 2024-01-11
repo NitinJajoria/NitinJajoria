@@ -1,6 +1,6 @@
-<p align="right"><img src="https://komarev.com/ghpvc/?username=nitinjajoria&label=Profile%20views&color=0e75b6&style=flat" alt="nitinjajoria"/></p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=nitinjajoria&label=Profile%20views&color=0e75b6&style=flat" alt="nitinjajoria"/> </p>
 
-<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com/font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nitin+Kumar!;"/></h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nitin+Kumar!;" /> </h1>
 
 <h3 align="left">A passionate Mern Stack developer from India</h3>
 
@@ -66,11 +66,8 @@
 <hr />
 
 <br />
-<h1 align="left">
-	<img
-		src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=End+Here!;+Thanks+for+Reading!;"
-	/>
-</h1>
+
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=End+Here!;+Thanks+for+Reading!;" /></h1>
 
 <br />
 
