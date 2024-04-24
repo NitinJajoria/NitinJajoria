@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 
-<p align="center">🔭 I’m working as Admin Dashboard<br>📚 I'm currently learning nginx<br>💬 Ask me about Node.js, React.js or anything<br>⚡ In my free time I read blogs</p>
+<p align="center">🔭 I’m working on Chat App using Mern.<br>📚 I'm currently learning nginx<br>💬 Ask me about Node.js, React.js or anything<br>⚡ In my free time I read blogs</p>
 
 ###
 
