@@ -1,74 +1,110 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=nitinjajoria&label=Profile%20views&color=0e75b6&style=flat" alt="nitinjajoria"/> </p>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=nitinjajoria&label=Profile%20views&color=0e75b6&style=flat" alt="nitinjajoria"/>
+</p>
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nitin+Kumar!;" /> </h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nitin+Kumar;+Full+Stack+Developer;" />
+</h1>
 
-<h3 align="center">A passionate Mern Stack developer from India</h3>
+<h3 align="center">Building production SaaS platforms and marketplaces with Next.js & Node.js</h3>
 
-<p align="center">🔭 I’m working on Chat App using Mern.<br>📚 I'm currently learning nginx<br>💬 Ask me about Node.js, React.js or anything<br>⚡ In my free time I read blogs</p>
+---
 
-###
+## 🚀 Production Platforms
 
-<div align="center">
-	<h3 align="center">Connect with me:</h3>
-	<a href="mailto:nitinjajoria97@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-	</a>
-	<a href="https://linkedin.com/in/" nitinjajoria target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
-	</a>
-	<a href="https://github.com/NitinJajoria" target="_blank">
-		<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank"/>
-	</a>
-</div>
+### 🛒 Safety Online
+Multi-vendor safety equipment marketplace
 
-<hr />
+🔗 https://safetyonline.in
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br />
-<div align="center">
-	<img
-		src="https://skillicons.dev/icons?i=html,css,javascript,tailwindcss,react,redux"
-	/>
-	<img
-		src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,postman,linux,vscode,java"
-	/><br />
-</div>
+• 53+ users  
+• 45+ orders processed  
+• Razorpay payment integration  
+• Shipping automation with Hexalog API  
+• Seller dashboards & analytics  
 
-<br />
-<hr />
+**Stack:** Next.js · MongoDB · Tailwind · Zustand · Razorpay · Cloudinary
 
-<div align="center">
-	<h2>🐍 My Contributions 🐍</h2>
-	<img
-		src="https://raw.githubusercontent.com/NitinJajoria/NitinJajoria/output/snake.svg"
-		alt="Snake animation"
-	/>
-	<br />
-</div>
+---
 
-<hr />
+### 🏢 Ladwa Partners
+B2B procurement platform for businesses
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br />
-<div align="center">
-	<img
-		src="https://github-readme-stats.vercel.app/api?username=NitinJajoria&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
-		height="150"
-		alt="stats graph"
-	/>
-	<img
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=NitinJajoria&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2"
-		height="150"
-		alt="languages graph"
-	/>
-</div>
+🔗 https://ladwapartner.com
 
-<hr />
+• 84+ registered businesses  
+• 73+ orders processed  
+• ₹7.3L+ total revenue  
+• GST onboarding system  
+• Automated invoice generation  
 
-<br />
+**Stack:** Next.js · MongoDB · AWS S3 · Razorpay · Puppeteer · ExcelJS
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=End+Here!;+Thanks+for+Reading!;" /></h1>
+---
 
-<br />
+## 🛠 Tech Stack
 
-<hr />
+### Frontend
+Next.js · React · Tailwind CSS · Zustand
+
+### Backend
+Node.js · Express.js · MongoDB · Prisma · REST APIs
+
+### Infrastructure
+VPS · Nginx · PM2 · Vercel · AWS S3 · Cloudinary
+
+### Tools
+Git · GitHub · Postman · Linux · VS Code
+
+---
+
+## 🔐 Systems I’ve Built
+
+✓ Authentication systems (JWT, OTP, Google OAuth, LinkedIn OAuth)  
+✓ Payment integrations (Razorpay + webhook verification)  
+✓ Real-time messaging with Socket.io  
+✓ Automated PDF invoicing with Puppeteer  
+✓ File storage systems using AWS S3 & Cloudinary  
+✓ Production deployments using VPS + Nginx + PM2  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:nitinjajoria97@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+</a>
+
+<a href="https://linkedin.com/in/nitinjajoria" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/NitinJajoria" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=NitinJajoria&show_icons=true&theme=dracula"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinJajoria&layout=compact&theme=dracula"
+/>
+
+</p>
+
+---
+
+<p align="center">
+⭐ If you like my work, feel free to connect or collaborate!
+</p>
