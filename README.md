@@ -89,14 +89,10 @@ Git · GitHub · Postman · Linux · VS Code
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NitinJajoria&show_icons=true&theme=dracula&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitinJajoria&layout=compact&theme=dracula&hide_border=true" height="170"/>
-
+  <img src="https://raw.githubusercontent.com/NitinJajoria/NitinJajoria/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
